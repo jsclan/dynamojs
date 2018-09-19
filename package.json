@@ -1,0 +1,17 @@
+{
+  "name": "dynamojs",
+  "version": "1.0.0",
+  "description": "DynamoDB ORM module",
+  "main": "index.js",
+  "directories": {
+    "lib": "./lib/dynamojs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viktor Goldberg",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.308.0"
+  }
+}
